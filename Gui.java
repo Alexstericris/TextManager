@@ -23,6 +23,6 @@ public class TextManagerGUI extends JFrame {
 		this.setSize(800, 600);
 		
 		//Make Normal Window Extended
-		super.setExtendedState(JFrame.MAXIMIZED_BOH);
+		super.setExtendedState(JFrame.MAXIMIZED_BOTH);
     }
 }
