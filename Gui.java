@@ -11,7 +11,7 @@ import javax.swing.JTextField;
 import javax.swing.JPasswordField;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-import java.util.*;
+import java.util.*;// ma butt
 
 public class TextManagerGUI extends JFrame {
 
