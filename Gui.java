@@ -1,17 +1,8 @@
 
-import java.awt.FlowLayout;
-import java.awt.Image;
-import java.awt.Toolkit;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.awt.image.BufferedImage;
+import java.awt.*;
 
-import javax.swing.JOptionPane;
-import javax.swing.JTextField;
-import javax.swing.JPasswordField;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import java.util.*;// ma butt
+import javax.swing.*;
+import java.util.*;
 
 public class TextManagerGUI extends JFrame {
 
